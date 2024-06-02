@@ -33,7 +33,7 @@ git clone https://github.com/UDAIBHAT/Covid-19_Awareness_website.git
 
 <h3> Live Link </h3>
 
-<a href=""> click it! </a>
+<a href="https://udaibhat.github.io/Covid-19_Awareness_website/"> click it! </a>
 
 <br>
 
