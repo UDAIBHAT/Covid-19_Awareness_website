@@ -27,7 +27,7 @@ git clone https://github.com/UDAIBHAT/Covid-19_Awareness_website.git
 - Run the index.html file
 - Start using!!!
 
-![Screenshot 1](https://user-images.githubusercontent.com/72568715/125443620-4e60bcde-c2d3-42cc-ad40-279d59ecd7ea.PNG)
+![Screenshot 1](s1.png)
 
 ![Screenshot 2](https://user-images.githubusercontent.com/72568715/125443725-4c1bbcb4-46f5-4518-b29a-60ea750ecd2b.PNG)
 
